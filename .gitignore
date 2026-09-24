@@ -1,0 +1,11 @@
+ Backup y archivos temporales
+*.bak
+*~
+*.swp
+
+# Logs
+*.log
+
+# Entornos virtuales
+iv-env/
+.env
