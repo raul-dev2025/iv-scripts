@@ -1,0 +1,1 @@
+/mnt/datos_raul/scripts/usr-local-bin/idm-join.sh
