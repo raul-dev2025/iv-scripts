@@ -27,10 +27,10 @@ start() {
     echo "✅ FDB actualizada para 02:42:ac:11:00:1b en br_pod"
 
     echo "📦 Levantando Authelia-Auth dentro del Pod..."
-    /bin/sh ./authelia-auth.sh [cite: 20]
+    /bin/sh ./authelia-auth.sh 
     
     echo "🌐 Levantando Proxy-Auth dentro del Pod..."
-    /bin/sh ./proxy.sh [cite: 20]
+    /bin/sh ./proxy.sh 
 }
 
 stop() {

@@ -7,5 +7,4 @@
 *.log
 
 # Entornos virtuales
-iv-env/
 .env
